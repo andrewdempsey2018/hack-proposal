@@ -6,15 +6,15 @@ Participating teams will be tasked with implementing a sorting algorithm using H
 
 Presented here is a straightforward HTML page complemented by CSS styling and a JavaScript file. The content is intentionally kept basic, serving as a foundation for teams to build upon. Within the JavaScript file, you'll find a single function dedicated to performing Bubble Sort.
 
-#### index.html
+#### **index.html**
 
 The HTML file defines the structure of the web page. It includes an input field, button, and an area to display results.
 
-#### styles.css
+#### **styles.css**
 
 The CSS file contains styling rules that define the appearance of elements on the web page. This can be left as is or, if you have time, you could research some CSS and change the appearece of your project.
 
-#### script.js
+#### **script.js**
 
 The JavaScript file contains the logic to handle user interactions and perform actions on the web page. It defines two functions: 'getInput' and 'bubbleSort'.
 
@@ -43,30 +43,34 @@ This swapping process continues until the largest element in the unsorted portio
 
 Hackathon Team Brief: Bubble Sort Implementation
 
-Objective:
+**Objective**
+
 Your team's objective is to implement the bubble sort algorithm. 
 
-Background:
+**Background**
+
 Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
 
-Task:
+**Task**
+
 Your team is responsible for writing a functional bubble sort algorithm. The algorithm should be able to sort a given array of integers in ascending order.
 
-Requirements:
+**Requirements**
 
 * Implement the bubble sort algorithm efficiently and correctly.
 * Ensure that the algorithm can handle arrays of various sizes.
 * Test the algorithm with different input arrays to verify its correctness.
 
-Deliverables:
+**Deliverables**
 
 * Working code that implements the bubble sort algorithm.
 * Brief presentation detailing how your solution works.
 
-Timeline:
+**Timeline**
+
 You should arrange no more than three team meetings, lasting no longer than 30 mins each. You should discuss you solution before implmenting it as a team before the deadline of X.
 
-Good luck!
+### **Good luck!**
 
 #### Other algorithms similar to Bubble Sort
 
